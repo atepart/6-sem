@@ -1,6 +1,6 @@
 # 6 sem labs
 SS - general physics labs (fundamentals of modern physics)
 
-PSS - solid state labs 
+PSS - solid state labs (DPQE only)
 
 RT - radio engineering labs
