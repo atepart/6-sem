@@ -1,2 +1,4 @@
-# 6-sem
-Labs of the 6th sem of study at MIPT
+# 6 sem labs
+SS - general physics labs (fundamentals of modern physics)
+PSS - solid state labs 
+RT - radio engineering labs
